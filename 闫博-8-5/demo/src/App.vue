@@ -16,9 +16,6 @@
             <img src="./assets/img-1.jpg" class="div_7_img" alt="">
             <img src="./assets/img-1.jpg" class="div_7_img" alt="">
             <img src="./assets/img-1.jpg" class="div_7_img" alt="">
-            <img src="./assets/img-1.jpg" class="div_7_img" alt="">
-            <img src="./assets/img-1.jpg" class="div_7_img" alt="">
-            <img src="./assets/img-1.jpg" class="div_7_img" alt="">
           </div>
         </div>
       </div>
